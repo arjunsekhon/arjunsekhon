@@ -8,7 +8,7 @@ I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/
 - 📉 **Visualization**: Tableau, Power BI
 - 💾 **Big Data**: Google BigQuery
 
-I enjoy solving real-world problems through data-driven insights particularly in the chemical, energy and commodities sectors.
+I enjoy solving real-world problems through data-driven insights, particularly in the chemical, energy, and commodities sectors.
 
 ## 🎯 Certifications
 - 🏆 **Google Advanced Data Analytics Professional Certificate**
