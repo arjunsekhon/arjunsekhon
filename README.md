@@ -12,7 +12,7 @@ I enjoy solving real-world problems through data-driven insights, particularly i
 
 ## 🎯 Certifications
 - 🏆 **Google Advanced Data Analytics Professional Certificate**
-- 📜 Datern: Introduction to Data Visualisation in PowerBI
+- 📜 [Datern](https://datern.co.uk/): Introduction to Data Visualisation in PowerBI
 
 ## 🏆 Featured Projects
 🔹 **[Data Analysis of supply of crude oil and natural gas liquids](https://github.com/arjunsekhon/uk_govt_energy_analysis)** - Analysing supply of crude oil and natural gas liquids using UK Government data. Includes web scraping and data visualization in Tableau.
