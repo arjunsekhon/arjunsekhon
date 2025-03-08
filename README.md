@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
 
 ## 🚀 About Me
-I am a **Google Advanced Data Analytics Professional** certified analyst passionate about **data visualization, machine learning, and business intelligence**. My expertise includes:
+I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualization, machine learning, and business intelligence**. My expertise includes:
 - 📊 **Data Analytics**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 - 📈 **Machine Learning**: Scikit-learn
 - 📉 **Visualization**: Tableau, Power BI
