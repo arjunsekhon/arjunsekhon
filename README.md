@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualization, machine learning, and business intelligence**. My expertise includes:
-- 📊 **Data Analytics**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 📊 **Data Analytics**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 - 📈 **Machine Learning**: Scikit-learn
 - 📉 **Visualization**: Tableau, Power BI
 - 💾 **Big Data**: Google BigQuery
