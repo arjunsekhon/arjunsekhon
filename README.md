@@ -4,9 +4,9 @@
 ## 🚀 About Me
 I am a **Google Advanced Data Analytics Professional** certified analyst passionate about **data visualization, machine learning, and business intelligence**. My expertise includes:
 - 📊 **Data Analytics**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 📈 **Machine Learning**: Scikit-learn, TensorFlow, Google Cloud AI
-- 📉 **Visualization**: Tableau, Power BI, Google Data Studio
-- 💾 **Big Data**: Google BigQuery, Hadoop, Spark
+- 📈 **Machine Learning**: Scikit-learn
+- 📉 **Visualization**: Tableau, Power BI
+- 💾 **Big Data**: Google BigQuery
 
 I enjoy solving real-world problems through data-driven insights particularly in the chemical, energy and commodities sectors.
 
