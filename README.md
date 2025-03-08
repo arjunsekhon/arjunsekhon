@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Arjun Sekhon!</h1>
 <h3 align="center">Data Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/arjun-sekhon?style=social" />
-  <img src="https://img.shields.io/github/stars/arjun-sekhon?style=social" />
-</p>
-
 ## 🚀 About Me
 I am a **Google Advanced Data Analytics Professional** certified analyst passionate about **data visualization, machine learning, and business intelligence**. My expertise includes:
 - 📊 **Data Analytics**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
