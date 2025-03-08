@@ -2,8 +2,8 @@
 <h3 align="center">Data Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?style=social" />
-  <img src="https://img.shields.io/github/stars/your-username?style=social" />
+  <img src="https://img.shields.io/github/followers/arjun-sekhon?style=social" />
+  <img src="https://img.shields.io/github/stars/arjun-sekhon?style=social" />
 </p>
 
 ## 🚀 About Me
@@ -13,17 +13,14 @@ I am a **Google Advanced Data Analytics Professional** certified analyst passion
 - 📉 **Visualization**: Tableau, Power BI, Google Data Studio
 - 💾 **Big Data**: Google BigQuery, Hadoop, Spark
 
-I enjoy solving real-world problems through data-driven insights and **helping businesses make informed decisions**.
+I enjoy solving real-world problems through data-driven insights particularly in the chemical, energy and commodities sectors.
 
 ## 🎯 Certifications
 - 🏆 **Google Advanced Data Analytics Professional Certificate**
-- 📜 IBM Data Science Professional Certificate
-- 📜 Microsoft Certified: Power BI Data Analyst Associate
+- 📜 Datern: Introduction to Data Visualisation in PowerBI
 
 ## 🏆 Featured Projects
-🔹 **[Data Analysis of supply of crude oil and natural gas liquids](https://github.com/arjunsekhon/uk_govt_energy_analysis](https://github.com/arjunsekhon/uk_govt_energy_analysis)** - Analysing supply of crude oil and natural gas liquids using UK Government data
-🔹 **[Project Name 2](https://github.com/your-username/project2)** - Data visualization dashboard in Tableau  
-🔹 **[Project Name 3](https://github.com/your-username/project3)** - Web scraping and sentiment analysis  
+🔹 **[Data Analysis of supply of crude oil and natural gas liquids](https://github.com/arjunsekhon/uk_govt_energy_analysis](https://github.com/arjunsekhon/uk_govt_energy_analysis)** - Analysing supply of crude oil and natural gas liquids using UK Government data. Includes web scraping and data visualization in Tableau.
 
 ## 📬 Connect with Me
 - 📧 **Email**: arjunsekhon2@gmail.com
