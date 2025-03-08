@@ -21,11 +21,10 @@ I enjoy solving real-world problems through data-driven insights and **helping b
 - 📜 Microsoft Certified: Power BI Data Analyst Associate
 
 ## 🏆 Featured Projects
-🔹 **[Project Name 1](https://github.com/your-username/project1)** - Predictive analytics using machine learning  
+🔹 **[Data Analysis of supply of crude oil and natural gas liquids](https://github.com/arjunsekhon/uk_govt_energy_analysis](https://github.com/arjunsekhon/uk_govt_energy_analysis)** - Analysing supply of crude oil and natural gas liquids using UK Government data
 🔹 **[Project Name 2](https://github.com/your-username/project2)** - Data visualization dashboard in Tableau  
 🔹 **[Project Name 3](https://github.com/your-username/project3)** - Web scraping and sentiment analysis  
 
 ## 📬 Connect with Me
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [your-linkedin-url](https://linkedin.com/in/your-username)
-- 📝 **Portfolio**: [your-portfolio-url](https://your-website.com)
+- 📧 **Email**: arjunsekhon2@gmail.com
+- 💼 **LinkedIn**: [https://uk.linkedin.com/in/arjun-sekhon](https://uk.linkedin.com/in/arjun-sekhon)
