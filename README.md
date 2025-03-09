@@ -2,10 +2,10 @@
 <h3 align="center">Data Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
 
 ## 🚀 About Me
-I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualization, machine learning, and business intelligence**. My expertise includes:
+I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualisation, machine learning, and business intelligence**. My expertise includes:
 - 📊 **Data Analytics**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 - 📈 **Machine Learning**: Scikit-learn
-- 📉 **Visualization**: Tableau, Power BI
+- 📉 **Visualisation**: Tableau, Power BI
 - 💾 **Big Data**: Google BigQuery
 
 I enjoy solving real-world problems through data-driven insights, particularly in the chemical, energy, and commodities sectors.
