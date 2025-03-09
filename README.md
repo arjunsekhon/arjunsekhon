@@ -1,14 +1,10 @@
 <h1 align="center">👋 Hi, I'm Arjun Sekhon!</h1>
-<h3 align="center">Data Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
+<h3 align="center">Energy Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
 
 ## 🚀 About Me
-I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualisation, machine learning, and business intelligence**. My expertise includes:
-- 📊 **Data Analytics**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 📈 **Machine Learning**: Scikit-learn
-- 📉 **Visualisation**: Tableau, Power BI
-- 💾 **Big Data**: Google BigQuery
-
-I enjoy solving real-world problems through data-driven insights, particularly in the chemical, energy, and commodities sectors.
+I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualisation, machine learning, and business intelligence** in the energy, commodities, and chemical industries.
+- ⚡ Experience in Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, SQL, Power BI, Tableau and BigQuery for data-driven insights.
+- 📈 Exploring the intersection of data science & energy markets.
 
 ## 🎯 Certifications
 - 🏆 **Google Advanced Data Analytics Professional Certificate**
