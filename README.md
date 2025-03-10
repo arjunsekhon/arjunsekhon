@@ -11,7 +11,7 @@ I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/
 - 📜 [Datern](https://datern.co.uk/): Introduction to Data Visualisation in PowerBI
 
 ## 🏆 Featured Projects
-🔹 **[Data Analysis of supply of crude oil and natural gas liquids](https://github.com/arjunsekhon/uk_govt_energy_analysis)** - Analysing supply of crude oil and natural gas liquids using UK Government data. Includes web scraping and data visualization in Tableau.
+🔹 **[Data Analysis of supply of crude oil and natural gas liquids](https://github.com/arjunsekhon/uk_govt_energy_analysis)** - Analysing supply of crude oil and natural gas liquids using UK Government data. Includes web scraping and data visualisation in Tableau.
 
 ## 📬 Connect with Me
 - 📧 **Email**: arjunsekhon2@gmail.com
