@@ -7,7 +7,7 @@ I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/
 - 📈 Exploring the intersection of data analytics & energy markets.
 
 ## 🎯 Certifications
-- 🏆 **Google Advanced Data Analytics Professional Certificate**
+- 🏆 **[Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/QVYZB2WHIGLE)**
 - 📜 [Datern](https://datern.co.uk/): Introduction to Data Visualisation in PowerBI
 
 ## 🏆 Featured Projects
