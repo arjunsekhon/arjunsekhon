@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualisation, machine learning, and business intelligence** in the energy, commodities, and chemical industries.
-- ⚡ Experience in Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, SQL, Power BI, Tableau and BigQuery for data-driven insights.
+- ⚡ Experience in Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, SQL, Power BI and Tableau for data-driven insights.
 - 📈 Exploring the intersection of data analytics & energy markets.
 
 ## 🎯 Certifications
