@@ -2,7 +2,7 @@
 <h3 align="center">Energy Sector Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
 
 ## 🚀 About Me
-I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualisation, machine learning, and business intelligence** in the energy, commodities, and chemical industries.
+I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualisation, machine learning, and business intelligence** in the energy and power industries.
 - ⚡ Experience in Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, SQL, Power BI and Tableau for data-driven insights.
 - 📈 Exploring the intersection of data analytics & energy markets.
 
