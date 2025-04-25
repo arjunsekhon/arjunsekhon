@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Arjun Sekhon!</h1>
-<h3 align="center">Energy Sector Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
+<h3 align="center">Aspiring Energy Sector Analyst | Google Advanced Data Analytics Professional | Chemistry Undergraduate</h3>
 
 ## 🚀 About Me
 I am a **[Google Advanced Data Analytics Professional](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)** certified analyst passionate about **data visualisation, machine learning, and business intelligence** in the energy and power industries.
